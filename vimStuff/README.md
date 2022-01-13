@@ -2,7 +2,7 @@
 
 As with any vimrc found online, it is tailored to how the creator likes to codeand use vim.
 
-I implore you to read through the .text file and understand each line and what it does.
+I implore you to read through the .txt file and understand each line and what it does.
 
 When I was making this vimrc, I did the same thing. I used other people's vimrc's and researched what each line did, figuring out if it was right for me or not.
 
